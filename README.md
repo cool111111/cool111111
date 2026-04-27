@@ -1,4 +1,4 @@
-### Hey, I'm 及川 👋
+### Hey, I'm COOL 👋
 
 Building automated pipelines that turn AI capabilities into scalable content systems.
 
@@ -24,5 +24,3 @@ I sit at the intersection of **AI engineering**, **content strategy**, and **gro
 `AI Agents` `Prompt Engineering` `Content Automation` `Python` `TypeScript` `Multi-Agent Orchestration`
 
 ---
-
-<sub>I read HN, Reddit, and Twitter in English so you don't have to. Then I turn it into content that actually resonates.</sub>
