@@ -1,24 +1,27 @@
 ### Hey, I'm 及川 👋
 
-AI Product Growth @ [MiniMax](https://www.minimax.io) — bridging the gap between AI tech and real-world content ops.
+Building automated pipelines that turn AI capabilities into scalable content systems.
 
-I build automated pipelines that turn AI capabilities into scalable content systems. My work sits at the intersection of **AI engineering**, **content strategy**, and **growth hacking**.
+I sit at the intersection of **AI engineering**, **content strategy**, and **growth** — I understand the tech well enough to build agent workflows, and I understand content well enough to know what actually resonates.
 
 ---
 
 #### What I'm working on
 
-🔧 **AI Content Pipeline** — An automated system that scrapes KOL tweets, aggregates AI news, generates daily reports, and produces platform-ready content. Built with multi-agent orchestration (9 specialized agents running in parallel).
+🔧 **AI Content Pipeline** — A multi-agent system that scrapes KOL tweets, aggregates AI news, generates daily reports, and produces platform-ready short-form content. 9 specialized agents running in parallel, fully automated.
 
-✍️ **[AI Content Skills](https://github.com/cool111111/ai-content-skills)** — Open-sourced writing methodology for AI agents. Covers long-form articles and short-form social content with built-in quality scoring, fact-checking rules, and style constraints.
+✍️ **Content Skills for AI Agents** — Open-sourced writing methodology that turns AI agents into reliable content producers. Includes fact-checking rules, style constraints, quality scoring, and anti-AI-slop guardrails.
+- [writer-skill](https://github.com/cool111111/writer-skill) — Long-form articles
+- [xhs-content-skill](https://github.com/cool111111/xhs-content-skill) — Short-form social content
+- [find-influencer-skill](https://github.com/cool111111/find-influencer-skill) — Creator discovery & evaluation
 
-📊 **KOL & Creator Ops** — Managing 5000+ tech/AI creators across Xiaohongshu, Douyin, Bilibili, and WeChat, driving 5M+ monthly impressions.
+📊 **Creator Ops at Scale** — Screening and managing 5000+ tech/AI creators across multiple platforms, with AI-assisted script writing and performance tracking.
 
 ---
 
 #### My stack
 
-`AI Agents` `Prompt Engineering` `Content Automation` `Python` `TypeScript` `Feishu/Lark API`
+`AI Agents` `Prompt Engineering` `Content Automation` `Python` `TypeScript` `Multi-Agent Orchestration`
 
 ---
 
